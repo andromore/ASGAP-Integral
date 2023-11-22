@@ -1,2 +1,2 @@
-# ASGAP-Integral
+# Integral
 numerical integration program in c
